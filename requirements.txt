@@ -1,0 +1,11 @@
+pip install pandas
+pip install numpy 
+pip install scikit-learn==0.23.1
+pip install flask
+pip install matplotlib
+pip install tweepy
+pip install unicodecsv
+pip install unidecode
+pip install textblob
+
+python 3.8

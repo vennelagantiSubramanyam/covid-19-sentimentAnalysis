@@ -1,0 +1,7 @@
+COVIDSenti A Large-Scale Benchmark Twitter Data Set for COVID-19 Sentiment Analysis
+
+Algorithm / Model Used: SVM
+
+Accuracy score: 0.84
+
+
